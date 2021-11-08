@@ -1,0 +1,120 @@
+com/example/quizap/model/QuestionDisplayModel.java
+ com.example.quizap.model.QuestionDisplayModel
+com/example/quizap/StudentInstruction.java
+ com.example.quizap.StudentInstruction
+ com.example.quizap.StudentInstruction$1
+ com.example.quizap.StudentInstruction$2
+ com.example.quizap.StudentInstruction$3
+ com.example.quizap.StudentInstruction$4
+ com.example.quizap.StudentInstruction$5
+ com.example.quizap.StudentInstruction$6
+ com.example.quizap.StudentInstruction$7
+com/example/quizap/Faculty.java
+ com.example.quizap.Faculty
+ com.example.quizap.Faculty$1
+com/example/quizap/databinding/ActivityFacultyBinding.java
+ com.example.quizap.databinding.ActivityFacultyBinding
+com/example/quizap/model/QuizListModel.java
+ com.example.quizap.model.QuizListModel
+com/example/quizap/databinding/ActivityCreateQuiz2Binding.java
+ com.example.quizap.databinding.ActivityCreateQuiz2Binding
+com/example/quizap/BaseActivity.java
+ com.example.quizap.BaseActivity
+com/example/quizap/Student.java
+ com.example.quizap.Student
+ com.example.quizap.Student$1
+com/example/quizap/databinding/QuestionlayoutBinding.java
+ com.example.quizap.databinding.QuestionlayoutBinding
+com/example/quizap/Score.java
+ com.example.quizap.Score
+ com.example.quizap.Score$1
+com/example/quizap/databinding/ActivityStudentInstructionBinding.java
+ com.example.quizap.databinding.ActivityStudentInstructionBinding
+com/example/quizap/CreateQuiz.java
+ com.example.quizap.CreateQuiz
+ com.example.quizap.CreateQuiz$1
+ com.example.quizap.CreateQuiz$2
+com/example/quizap/Adapter/Myadapter.java
+ com.example.quizap.Adapter.Myadapter
+ com.example.quizap.Adapter.Myadapter$MyViewHolder
+com/example/quizap/QuizDetail.java
+ com.example.quizap.QuizDetail
+ com.example.quizap.QuizDetail$1
+ com.example.quizap.QuizDetail$2
+ com.example.quizap.QuizDetail$3
+ com.example.quizap.QuizDetail$4
+com/example/quizap/CreateQuiz2.java
+ com.example.quizap.CreateQuiz2
+ com.example.quizap.CreateQuiz2$1
+ com.example.quizap.CreateQuiz2$2
+ com.example.quizap.CreateQuiz2$3
+ com.example.quizap.CreateQuiz2$4
+ com.example.quizap.CreateQuiz2$5
+ com.example.quizap.CreateQuiz2$6
+ com.example.quizap.CreateQuiz2$7
+ com.example.quizap.CreateQuiz2$7$1
+ com.example.quizap.CreateQuiz2$8
+ com.example.quizap.CreateQuiz2$9
+com/example/quizap/BuildConfig.java
+ com.example.quizap.BuildConfig
+com/example/quizap/databinding/ActivityQuizDetailBinding.java
+ com.example.quizap.databinding.ActivityQuizDetailBinding
+com/example/quizap/databinding/ActivityMainBinding.java
+ com.example.quizap.databinding.ActivityMainBinding
+com/example/quizap/TimePickerFragment.java
+ com.example.quizap.TimePickerFragment
+com/example/quizap/databinding/ActivityLogInBinding.java
+ com.example.quizap.databinding.ActivityLogInBinding
+com/example/quizap/databinding/ActivityRegistrationFormBinding.java
+ com.example.quizap.databinding.ActivityRegistrationFormBinding
+com/example/quizap/databinding/ActivityStudentBinding.java
+ com.example.quizap.databinding.ActivityStudentBinding
+com/example/quizap/Adapter/QuizListAdapter.java
+ com.example.quizap.Adapter.QuizListAdapter
+ com.example.quizap.Adapter.QuizListAdapter$QuizListHolder
+com/example/quizap/MainActivity.java
+ com.example.quizap.MainActivity
+ com.example.quizap.MainActivity$1
+ com.example.quizap.MainActivity$10
+ com.example.quizap.MainActivity$2
+ com.example.quizap.MainActivity$3
+ com.example.quizap.MainActivity$4
+ com.example.quizap.MainActivity$5
+ com.example.quizap.MainActivity$6
+ com.example.quizap.MainActivity$7
+ com.example.quizap.MainActivity$8
+ com.example.quizap.MainActivity$9
+com/example/quizap/databinding/ActivitySignInBinding.java
+ com.example.quizap.databinding.ActivitySignInBinding
+com/example/quizap/SignIn.java
+ com.example.quizap.SignIn
+ com.example.quizap.SignIn$1
+com/example/quizap/databinding/ActivityScoreBinding.java
+ com.example.quizap.databinding.ActivityScoreBinding
+com/example/quizap/databinding/ActivityCreateQuizBinding.java
+ com.example.quizap.databinding.ActivityCreateQuizBinding
+com/example/quizap/databinding/QuizlistBinding.java
+ com.example.quizap.databinding.QuizlistBinding
+com/example/quizap/DatePickerFragment.java
+ com.example.quizap.DatePickerFragment
+com/example/quizap/model/QuestionModel.java
+ com.example.quizap.model.QuestionModel
+com/example/quizap/databinding/QuizAttemptLayoutBinding.java
+ com.example.quizap.databinding.QuizAttemptLayoutBinding
+com/example/quizap/MyApp.java
+ com.example.quizap.MyApp
+com/example/quizap/LogIn.java
+ com.example.quizap.LogIn
+ com.example.quizap.LogIn$1
+ com.example.quizap.LogIn$1$1
+ com.example.quizap.LogIn$1$1$1
+ com.example.quizap.LogIn$2
+com/example/quizap/databinding/FacultyCustomToolbarBinding.java
+ com.example.quizap.databinding.FacultyCustomToolbarBinding
+com/example/quizap/RegistrationForm.java
+ com.example.quizap.RegistrationForm
+ com.example.quizap.RegistrationForm$1
+ com.example.quizap.RegistrationForm$2
+ com.example.quizap.RegistrationForm$3
+ com.example.quizap.RegistrationForm$3$1
+ com.example.quizap.RegistrationForm$3$2

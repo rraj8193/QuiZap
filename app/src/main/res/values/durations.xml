@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="duration">
+        <item>Choose Duration</item>
+        <item>30 mins</item>
+        <item>45 mins</item>
+        <item>60 mins</item>
+        <item>75 mins</item>
+        <item>90 mins</item>
+        <item>120 mins</item>
+        <item>150 mins</item>
+        <item>180 mins</item>
+    </string-array>
+</resources>

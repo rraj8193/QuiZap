@@ -1,0 +1,517 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/c328ad44929db6b1d448f7bf9ae0158a/jetified-viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9517e7c9cfc796c8536e59efb292c8af/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/44db6729eb00a7c23a29aceb1bf6d5cf/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rishav/.gradle/caches/transforms-2/files-2.1/fd13be53182de9896f48539f84a16c8d/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/cbe7026f0b6e48e8d36fabe06ed90cb5/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
+MERGED from [com.firebaseui:firebase-ui-firestore:6.2.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/543eebae15eede0d767db311a61d4479/jetified-firebase-ui-firestore-6.2.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9975fe7774f6e1dad0339fd7d48ddfe8/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-database:6.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/1baa646dfaf0d52402b981a619d8b755/jetified-firebase-ui-database-6.4.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/d79533f864039cf4674023246e3f3240/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/31b712c44469de54ba7419ed0fa11560/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/697681036dfc9d20a029f67ab9fa08cf/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/0a4be7657efe81c4ce2ca3df3da67458/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/3d16ff79e62575cec2959813209954cf/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/ef3e45ce89b969f7044787281051b431/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/69ce75239d7f63ac22ad278ce4803f9a/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a696252420ad09ca08c27c7a2e75372b/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7f063cd1f0f4a387fbb3d4cef05bb74d/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/rishav/.gradle/caches/transforms-2/files-2.1/4bd2693ad302d79dde17cf0314358bca/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/fc893c6e19d8649774359c3eec5ff6bd/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/06e10bcc67e05d56096f748f16894d74/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] /home/rishav/.gradle/caches/transforms-2/files-2.1/c9e2b610b760671a1edf0cb875d4874e/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /home/rishav/.gradle/caches/transforms-2/files-2.1/50380c80991063e8841123a6ed498fa8/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/f77c2b624b24c4540695a8d168d61f0a/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c03681f49a783b6bbd2e3579a7206b46/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7b4f0029e79ca7e795a9c72d5c1ba316/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c5f5fd2de4e97021d708b2d50c6f4a83/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7ee350cf5af56612127483fbdd1613c5/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/e49a155676186033a420a9d563ba0c5d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c9b48f5f1b91f35458c493943ea1f676/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b14a9132ec34841378615f908c1d2cfe/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/71dde6d53453b814d057b128b75dbd1c/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a657464c4ac6ce4ffa78f293e0b4408e/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/56e88c3270c48a195e1b191dd0d9a80f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a02d5e019f2e8759e3b6b654b8c15d1d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/cb56a46e832a6660fceca2be58e8be6b/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dadb24c9fa586a5219ebb4afe46758dd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4271fc542614f08ed5034b734b10c7e6/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/66920b9ed8b67d4bf7f52555298637da/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/5992bab67590677eb35695d89777edc9/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/916c05b3a76c5123063b127fcd657ead/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c1fd4fa63ed287afd8ec97e8f79e81bf/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/29446b7e809b4867fc08502983909b8f/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c831023ac76cae6be4b1c84b1e2339e3/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.firebaseui:firebase-ui-common:6.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4a32a6ed23f0714418e5f2857fc3a523/jetified-firebase-ui-common-6.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/65340d2596c49d08780ec50a68872e45/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/2ad39aa278453af0033a022eeb69791a/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b5b395443bd9ed3ed6b5c84c2059cd28/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/e0c659c86830d4fa5ffac91ea6a21a0e/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/4d5eeadc776698ba994bbd13f6f1364f/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/6344076b1d27bf1a8d96e9f8756b50b9/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/f39dafe75d280e0826c987e249763b34/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/d73a7ee0ded357eb5866a29d30c85cef/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9633bbe397c2aabd6fc49cd8e69c7242/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9983cf4e3e780ebf28a99f3349899be2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b696f897579ad2eea479122e41a95982/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/64be5e549139fda81dc6ad092a65f914/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/75ba5a8599254348d1beaece48c471d1/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.28.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/853686dfbb103e1f00a299b3c44cbeb0/jetified-grpc-android-1.28.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/92cd10b58a6d5ece95616939eb678fcb/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:6.2.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/543eebae15eede0d767db311a61d4479/jetified-firebase-ui-firestore-6.2.1/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:6.2.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/543eebae15eede0d767db311a61d4479/jetified-firebase-ui-firestore-6.2.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.firebaseui:firebase-ui-database:6.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/1baa646dfaf0d52402b981a619d8b755/jetified-firebase-ui-database-6.4.0/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:6.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/1baa646dfaf0d52402b981a619d8b755/jetified-firebase-ui-database-6.4.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:7:5-49:19
+MERGED from [com.google.android.material:material:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/44db6729eb00a7c23a29aceb1bf6d5cf/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/44db6729eb00a7c23a29aceb1bf6d5cf/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rishav/.gradle/caches/transforms-2/files-2.1/fd13be53182de9896f48539f84a16c8d/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rishav/.gradle/caches/transforms-2/files-2.1/fd13be53182de9896f48539f84a16c8d/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a696252420ad09ca08c27c7a2e75372b/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a696252420ad09ca08c27c7a2e75372b/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/rishav/.gradle/caches/transforms-2/files-2.1/4bd2693ad302d79dde17cf0314358bca/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/rishav/.gradle/caches/transforms-2/files-2.1/4bd2693ad302d79dde17cf0314358bca/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/fc893c6e19d8649774359c3eec5ff6bd/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/fc893c6e19d8649774359c3eec5ff6bd/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/06e10bcc67e05d56096f748f16894d74/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/06e10bcc67e05d56096f748f16894d74/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/916c05b3a76c5123063b127fcd657ead/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/916c05b3a76c5123063b127fcd657ead/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/4d5eeadc776698ba994bbd13f6f1364f/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/4d5eeadc776698ba994bbd13f6f1364f/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/916c05b3a76c5123063b127fcd657ead/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:8:9-30
+activity#com.example.quizap.QuizDetail
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:15:9-57
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:15:19-45
+activity#com.example.quizap.CreateQuiz2
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:16:9-18:75
+	android:theme
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:18:13-72
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:17:13-40
+activity#com.example.quizap.Score
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:19:19-40
+activity#com.example.quizap.StudentInstruction
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:20:9-56
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:20:19-53
+activity#com.example.quizap.LogIn
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:21:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.quizap.ui.login.LogIn
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:28:9-30:61
+	android:label
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:29:13-43
+activity#com.example.quizap.CreateQuiz
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:31:9-33:75
+	android:theme
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:33:13-72
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:32:13-39
+activity#com.example.quizap.Faculty
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:34:9-36:75
+	android:theme
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:36:13-72
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:35:13-36
+activity#com.example.quizap.Student
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:37:9-39:75
+	android:theme
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:39:13-72
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:38:13-36
+activity#com.example.quizap.RegistrationForm
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:40:9-54
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:40:19-51
+activity#com.example.quizap.SignIn
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:41:9-43:58
+	android:parentActivityName
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:43:13-55
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:42:13-35
+activity#com.example.quizap.MainActivity
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:44:9-50
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:44:19-47
+meta-data#preloaded_fonts
+ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:46:9-48:57
+	android:resource
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:48:13-54
+	android:name
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:47:13-43
+uses-sdk
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/c328ad44929db6b1d448f7bf9ae0158a/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/c328ad44929db6b1d448f7bf9ae0158a/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9517e7c9cfc796c8536e59efb292c8af/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9517e7c9cfc796c8536e59efb292c8af/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/44db6729eb00a7c23a29aceb1bf6d5cf/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/44db6729eb00a7c23a29aceb1bf6d5cf/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rishav/.gradle/caches/transforms-2/files-2.1/fd13be53182de9896f48539f84a16c8d/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/rishav/.gradle/caches/transforms-2/files-2.1/fd13be53182de9896f48539f84a16c8d/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/cbe7026f0b6e48e8d36fabe06ed90cb5/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/cbe7026f0b6e48e8d36fabe06ed90cb5/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.firebaseui:firebase-ui-firestore:6.2.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/543eebae15eede0d767db311a61d4479/jetified-firebase-ui-firestore-6.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-firestore:6.2.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/543eebae15eede0d767db311a61d4479/jetified-firebase-ui-firestore-6.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9975fe7774f6e1dad0339fd7d48ddfe8/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9975fe7774f6e1dad0339fd7d48ddfe8/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:6.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/1baa646dfaf0d52402b981a619d8b755/jetified-firebase-ui-database-6.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:6.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/1baa646dfaf0d52402b981a619d8b755/jetified-firebase-ui-database-6.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/d79533f864039cf4674023246e3f3240/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/d79533f864039cf4674023246e3f3240/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/31b712c44469de54ba7419ed0fa11560/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/31b712c44469de54ba7419ed0fa11560/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/697681036dfc9d20a029f67ab9fa08cf/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/697681036dfc9d20a029f67ab9fa08cf/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/0a4be7657efe81c4ce2ca3df3da67458/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/0a4be7657efe81c4ce2ca3df3da67458/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/3d16ff79e62575cec2959813209954cf/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/3d16ff79e62575cec2959813209954cf/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/ef3e45ce89b969f7044787281051b431/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/ef3e45ce89b969f7044787281051b431/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/69ce75239d7f63ac22ad278ce4803f9a/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/69ce75239d7f63ac22ad278ce4803f9a/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a696252420ad09ca08c27c7a2e75372b/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a696252420ad09ca08c27c7a2e75372b/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7f063cd1f0f4a387fbb3d4cef05bb74d/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7f063cd1f0f4a387fbb3d4cef05bb74d/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/rishav/.gradle/caches/transforms-2/files-2.1/4bd2693ad302d79dde17cf0314358bca/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/rishav/.gradle/caches/transforms-2/files-2.1/4bd2693ad302d79dde17cf0314358bca/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/fc893c6e19d8649774359c3eec5ff6bd/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/fc893c6e19d8649774359c3eec5ff6bd/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/06e10bcc67e05d56096f748f16894d74/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/06e10bcc67e05d56096f748f16894d74/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /home/rishav/.gradle/caches/transforms-2/files-2.1/c9e2b610b760671a1edf0cb875d4874e/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/rishav/.gradle/caches/transforms-2/files-2.1/c9e2b610b760671a1edf0cb875d4874e/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/rishav/.gradle/caches/transforms-2/files-2.1/50380c80991063e8841123a6ed498fa8/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/rishav/.gradle/caches/transforms-2/files-2.1/50380c80991063e8841123a6ed498fa8/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/f77c2b624b24c4540695a8d168d61f0a/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/f77c2b624b24c4540695a8d168d61f0a/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c03681f49a783b6bbd2e3579a7206b46/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c03681f49a783b6bbd2e3579a7206b46/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7b4f0029e79ca7e795a9c72d5c1ba316/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7b4f0029e79ca7e795a9c72d5c1ba316/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c5f5fd2de4e97021d708b2d50c6f4a83/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c5f5fd2de4e97021d708b2d50c6f4a83/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7ee350cf5af56612127483fbdd1613c5/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/7ee350cf5af56612127483fbdd1613c5/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/e49a155676186033a420a9d563ba0c5d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/e49a155676186033a420a9d563ba0c5d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c9b48f5f1b91f35458c493943ea1f676/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c9b48f5f1b91f35458c493943ea1f676/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b14a9132ec34841378615f908c1d2cfe/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b14a9132ec34841378615f908c1d2cfe/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/71dde6d53453b814d057b128b75dbd1c/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/71dde6d53453b814d057b128b75dbd1c/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a657464c4ac6ce4ffa78f293e0b4408e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a657464c4ac6ce4ffa78f293e0b4408e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/56e88c3270c48a195e1b191dd0d9a80f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/56e88c3270c48a195e1b191dd0d9a80f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a02d5e019f2e8759e3b6b654b8c15d1d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/a02d5e019f2e8759e3b6b654b8c15d1d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/cb56a46e832a6660fceca2be58e8be6b/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/cb56a46e832a6660fceca2be58e8be6b/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dadb24c9fa586a5219ebb4afe46758dd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dadb24c9fa586a5219ebb4afe46758dd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4271fc542614f08ed5034b734b10c7e6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4271fc542614f08ed5034b734b10c7e6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/66920b9ed8b67d4bf7f52555298637da/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/66920b9ed8b67d4bf7f52555298637da/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/5992bab67590677eb35695d89777edc9/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/5992bab67590677eb35695d89777edc9/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/916c05b3a76c5123063b127fcd657ead/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/916c05b3a76c5123063b127fcd657ead/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c1fd4fa63ed287afd8ec97e8f79e81bf/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c1fd4fa63ed287afd8ec97e8f79e81bf/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/29446b7e809b4867fc08502983909b8f/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/29446b7e809b4867fc08502983909b8f/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c831023ac76cae6be4b1c84b1e2339e3/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/c831023ac76cae6be4b1c84b1e2339e3/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.firebaseui:firebase-ui-common:6.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4a32a6ed23f0714418e5f2857fc3a523/jetified-firebase-ui-common-6.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:6.4.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4a32a6ed23f0714418e5f2857fc3a523/jetified-firebase-ui-common-6.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/65340d2596c49d08780ec50a68872e45/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/65340d2596c49d08780ec50a68872e45/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/2ad39aa278453af0033a022eeb69791a/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/2ad39aa278453af0033a022eeb69791a/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b5b395443bd9ed3ed6b5c84c2059cd28/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b5b395443bd9ed3ed6b5c84c2059cd28/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/e0c659c86830d4fa5ffac91ea6a21a0e/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/e0c659c86830d4fa5ffac91ea6a21a0e/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/4d5eeadc776698ba994bbd13f6f1364f/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/4d5eeadc776698ba994bbd13f6f1364f/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/6344076b1d27bf1a8d96e9f8756b50b9/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/6344076b1d27bf1a8d96e9f8756b50b9/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/f39dafe75d280e0826c987e249763b34/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/f39dafe75d280e0826c987e249763b34/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/d73a7ee0ded357eb5866a29d30c85cef/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/d73a7ee0ded357eb5866a29d30c85cef/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9633bbe397c2aabd6fc49cd8e69c7242/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9633bbe397c2aabd6fc49cd8e69c7242/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9983cf4e3e780ebf28a99f3349899be2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/9983cf4e3e780ebf28a99f3349899be2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b696f897579ad2eea479122e41a95982/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/b696f897579ad2eea479122e41a95982/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/64be5e549139fda81dc6ad092a65f914/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/64be5e549139fda81dc6ad092a65f914/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/75ba5a8599254348d1beaece48c471d1/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/75ba5a8599254348d1beaece48c471d1/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/853686dfbb103e1f00a299b3c44cbeb0/jetified-grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/853686dfbb103e1f00a299b3c44cbeb0/jetified-grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/92cd10b58a6d5ece95616939eb678fcb/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/92cd10b58a6d5ece95616939eb678fcb/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+		ADDED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:25:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/853686dfbb103e1f00a299b3c44cbeb0/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/853686dfbb103e1f00a299b3c44cbeb0/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58

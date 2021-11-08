@@ -1,0 +1,266 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.quizap"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:22-76
+13
+14    <application
+14-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:7:5-49:19
+15        android:name="com.example.quizap.MyApp"
+15-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:8:9-30
+16        android:allowBackup="true"
+16-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:9:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.5.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/916c05b3a76c5123063b127fcd657ead/core-1.5.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:13:9-35
+23        android:theme="@style/Theme.QuiZap" >
+23-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:14:9-44
+24        <activity android:name="com.example.quizap.QuizDetail" />
+24-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:15:9-57
+24-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:15:19-45
+25        <activity
+25-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:16:9-18:75
+26            android:name="com.example.quizap.CreateQuiz2"
+26-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:17:13-40
+27            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+27-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:18:13-72
+28        <activity android:name="com.example.quizap.Score" />
+28-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:19:9-43
+28-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:19:19-40
+29        <activity android:name="com.example.quizap.StudentInstruction" />
+29-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:20:9-56
+29-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:20:19-53
+30        <activity android:name="com.example.quizap.LogIn" >
+30-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:21:9-27:20
+30-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:21:19-40
+31            <intent-filter>
+31-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:22:13-26:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:23:17-69
+32-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:23:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:25:17-77
+34-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:25:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:28:9-30:61
+38            android:name="com.example.quizap.ui.login.LogIn"
+38-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:29:13-43
+39            android:label="@string/title_activity_log_in" />
+39-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:30:13-58
+40        <activity
+40-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:31:9-33:75
+41            android:name="com.example.quizap.CreateQuiz"
+41-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:32:13-39
+42            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+42-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:33:13-72
+43        <activity
+43-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:34:9-36:75
+44            android:name="com.example.quizap.Faculty"
+44-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:35:13-36
+45            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+45-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:36:13-72
+46        <activity
+46-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:37:9-39:75
+47            android:name="com.example.quizap.Student"
+47-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:38:13-36
+48            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+48-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:39:13-72
+49        <activity android:name="com.example.quizap.RegistrationForm" />
+49-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:40:9-54
+49-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:40:19-51
+50        <activity
+50-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:41:9-43:58
+51            android:name="com.example.quizap.SignIn"
+51-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:42:13-35
+52            android:parentActivityName="com.example.quizap.MainActivity" />
+52-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:43:13-55
+53        <activity android:name="com.example.quizap.MainActivity" />
+53-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:44:9-50
+53-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:44:19-47
+54
+55        <meta-data
+55-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:46:9-48:57
+56            android:name="preloaded_fonts"
+56-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:47:13-43
+57            android:resource="@array/preloaded_fonts" />
+57-->/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/AndroidManifest.xml:48:13-54
+58
+59        <activity
+59-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
+60            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+60-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
+61            android:excludeFromRecents="true"
+61-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
+62            android:exported="true"
+62-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
+63            android:launchMode="singleTask"
+63-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
+64            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+64-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
+65            <intent-filter>
+65-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
+66                <action android:name="android.intent.action.VIEW" />
+66-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+66-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
+67
+68                <category android:name="android.intent.category.DEFAULT" />
+68-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+68-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+69                <category android:name="android.intent.category.BROWSABLE" />
+69-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+69-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
+70
+71                <data
+71-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
+72                    android:host="firebase.auth"
+72-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
+73                    android:path="/"
+73-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
+74                    android:scheme="genericidp" />
+74-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
+75            </intent-filter>
+76        </activity>
+77        <activity
+77-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
+78            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+78-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
+79            android:excludeFromRecents="true"
+79-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
+80            android:exported="true"
+80-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
+81            android:launchMode="singleTask"
+81-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
+82            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+82-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
+83            <intent-filter>
+83-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
+84                <action android:name="android.intent.action.VIEW" />
+84-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:17-69
+84-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:34:25-66
+85
+86                <category android:name="android.intent.category.DEFAULT" />
+86-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+86-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+87                <category android:name="android.intent.category.BROWSABLE" />
+87-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:17-78
+87-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:37:27-75
+88
+89                <data
+89-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:39:17-42:51
+90                    android:host="firebase.auth"
+90-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:40:21-49
+91                    android:path="/"
+91-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:41:21-37
+92                    android:scheme="recaptcha" />
+92-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:42:21-48
+93            </intent-filter>
+94        </activity>
+95
+96        <service
+96-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
+97            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+97-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
+98            android:enabled="true"
+98-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
+99            android:exported="false" >
+99-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
+100            <intent-filter>
+100-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
+101                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+101-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+101-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
+102
+103                <category android:name="android.intent.category.DEFAULT" />
+103-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:17-76
+103-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:36:27-73
+104            </intent-filter>
+105        </service>
+106        <service
+106-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+107            android:name="com.google.firebase.components.ComponentDiscoveryService"
+107-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:75:13-84
+108            android:directBootAware="true"
+108-->[com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+109            android:exported="false" >
+109-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
+110            <meta-data
+110-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
+111                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+111-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
+112                android:value="com.google.firebase.components.ComponentRegistrar" />
+112-->[com.google.firebase:firebase-auth:21.0.1] /home/rishav/.gradle/caches/transforms-2/files-2.1/08719ef812ed0c91b7b6b3aaca43106a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
+113            <meta-data
+113-->[com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:20:13-22:85
+114                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+114-->[com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:21:17-111
+115                android:value="com.google.firebase.components.ComponentRegistrar" />
+115-->[com.google.firebase:firebase-firestore:23.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/ce772ffeee6a993f8ebb85e928284314/jetified-firebase-firestore-23.0.0/AndroidManifest.xml:22:17-82
+116            <meta-data
+116-->[com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:33:13-35:85
+117                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+117-->[com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:34:17-107
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.firebase:firebase-storage:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/2d21aa99406481b9c103d55681b038bd/jetified-firebase-storage-20.0.0/AndroidManifest.xml:35:17-82
+119            <meta-data
+119-->[com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:32:13-34:85
+120                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+120-->[com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:33:17-109
+121                android:value="com.google.firebase.components.ComponentRegistrar" />
+121-->[com.google.firebase:firebase-database:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/629e2f0a93087050a6ed4b7de3988359/jetified-firebase-database-20.0.0/AndroidManifest.xml:34:17-82
+122        </service>
+123
+124        <activity
+124-->[com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+125            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+125-->[com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+126            android:exported="false"
+126-->[com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+127            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+127-->[com.google.android.gms:play-services-base:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/376e610a82bb2a8ba9f04b2de2302ef9/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+128
+129        <provider
+129-->[com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+130            android:name="com.google.firebase.provider.FirebaseInitProvider"
+130-->[com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+131            android:authorities="com.example.quizap.firebaseinitprovider"
+131-->[com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+132            android:directBootAware="true"
+132-->[com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+133            android:exported="false"
+133-->[com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+134            android:initOrder="100" />
+134-->[com.google.firebase:firebase-common:20.0.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/4e9406baa235fb07b57a38c7bd431fc4/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+135
+136        <meta-data
+136-->[com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
+137            android:name="com.google.android.gms.version"
+137-->[com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58
+138            android:value="@integer/google_play_services_version" />
+138-->[com.google.android.gms:play-services-basement:17.1.0] /home/rishav/.gradle/caches/transforms-2/files-2.1/dcc1258f58b80ad3f9699b265c278873/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
+139    </application>
+140
+141</manifest>

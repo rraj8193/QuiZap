@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_score.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_score.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_student.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_student.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main2.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_faculty.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_faculty.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_create_quiz2.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_create_quiz2.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/questionlayout.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/questionlayout.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_registration_form.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_registration_form.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_in.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_create_quiz.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_create_quiz.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/quiz_attempt_layout.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/quiz_attempt_layout.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_log_in.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/quizlist.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/quizlist.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_student_instruction.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_student_instruction.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_quiz_detail.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/activity_quiz_detail.xml"
+    },
+    {
+        "merged": "/home/rishav/AndroidStudioProjects/QuiZap/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/faculty_custom_toolbar.xml",
+        "source": "/home/rishav/AndroidStudioProjects/QuiZap/app/src/main/res/layout/faculty_custom_toolbar.xml"
+    }
+]
